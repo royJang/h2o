@@ -1,7 +1,7 @@
 <template>
 	<div id="app-view" class="container-fluid">	
 		<div class="page-header">
-		  <h1 class="fantasy">H2O</small></h1>
+		  <h1>H2O</h1>
 		</div>
 		<div class="row">
 	    	<!--路由-->
@@ -31,8 +31,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
     -moz-font-feature-settings: 'liga', 'kern';
     direction: ltr;
-    font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-family: 'PingFang SC', 'Helvetica Neue', 'Helvetica', 'STHeitiSC-Light', 'Arial', sans-serif;
 }
-.cursive { font-family: cursive; }
-.fantasy { font-family: fantasy; }
 </style>
